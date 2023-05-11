@@ -1,5 +1,7 @@
 # "Movies" React learning project
 
+![Project preview](docs/MoviesReactLearn.png)
+
 ## Description
 
 This is a React-learning-purposes project - "Movies".
@@ -17,7 +19,7 @@ The tutorial of creating simillar type project - https://stepik.org/course/11419
 - API fetching.
 - Movie cards.
 - Searching
-- Filtering my type.
+- Filtering by type.
 - Adaptive design using Tailwind classes.
 
 ## What frameworks/libraries are used
