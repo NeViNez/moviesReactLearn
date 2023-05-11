@@ -1,6 +1,6 @@
 # "Movies" React learning project
 
-![Project preview](docs/MoviesReactLearn.png)
+![Project preview](MoviesReactLearn.png)
 
 ## Description
 
