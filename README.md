@@ -1,10 +1,6 @@
 # "Movies" React learning project
 
----
-
 ## Description
-
----
 
 This is a React-learning-purposes project - "Movies".
 
@@ -16,8 +12,6 @@ Project has a little adaptive design.
 
 The tutorial of creating simillar type project - https://stepik.org/course/114197/
 
----
-
 ## Features
 
 - API fetching.
@@ -25,8 +19,6 @@ The tutorial of creating simillar type project - https://stepik.org/course/11419
 - Searching
 - Filtering my type.
 - Adaptive design using Tailwind classes.
-
----
 
 ## What frameworks/libraries are used
 
@@ -39,10 +31,7 @@ The tutorial of creating simillar type project - https://stepik.org/course/11419
 Movies data fetched from [OMDb API](http://www.omdbapi.com).
 
 You can read information about api request on their site - [omdbapi.com](http://www.omdbapi.com).
-
-:page_facing_up: Requires registration in order to get api key.
-
----
+_Requires registration in order to get API key._
 
 ## Instalation
 
