@@ -35,7 +35,7 @@ Movies data fetched from [OMDb API](http://www.omdbapi.com).
 You can read information about api request on their site - [omdbapi.com](http://www.omdbapi.com).
 _Requires registration in order to get API key._
 
-## Instalation
+## Installation
 
 :warning: The project uses vite as development environment. Running commands differ from commands in CRA (Create-react-app).
 See "Running" section below.
